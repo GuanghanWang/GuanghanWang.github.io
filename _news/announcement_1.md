@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-08-26 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I have started my Ph.D. journey at Cornell working with [Prof. Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/).
