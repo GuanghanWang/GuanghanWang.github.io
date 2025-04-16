@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://guanghanwang.github.io/sitemap.xml
